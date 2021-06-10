@@ -1,4 +1,0 @@
-1. Menambahkan code program hari rabu
-2. Menambahkan code program hari jumat
-3. Menambahkan code program hari sabtu
-4. menambahkan code program hari minggu
